@@ -3,8 +3,8 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	compatibilityVersion: "Xcode 8.0";
-	objectVersion: 48;
+	compatibilityVersion = "Xcode 8.0";
+	objectVersion = 48;
 	//objectVersion = 50;
 	objects = {
 

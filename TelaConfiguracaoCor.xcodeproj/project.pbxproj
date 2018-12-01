@@ -3,7 +3,9 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	compatibilityVersion: "Xcode 8.0";
+	objectVersion: 48;
+	//objectVersion = 50;
 	objects = {
 
 /* Begin PBXBuildFile section */
